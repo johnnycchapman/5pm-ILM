@@ -1,0 +1,907 @@
+{
+ "generated": "2026-10-13",
+ "note": "Deals change often; confirm with venues.",
+ "spots": [
+  {
+   "name": "Shark Bar & Kitchen",
+   "neighborhood": "Wrightsville Beach",
+   "address": "13 E Salisbury St, Wrightsville Beach, NC 28480",
+   "days": [
+    "Mon",
+    "Tue",
+    "Wed",
+    "Thu",
+    "Fri",
+    "Sat",
+    "Sun"
+   ],
+   "start": "15:00",
+   "end": "17:00",
+   "deals": [
+    "Half-price sushi (Red Cat Sushi, upstairs)"
+   ],
+   "dealTypes": [
+    "food"
+   ],
+   "website": "https://shark-bar.com/",
+   "source": "https://shark-bar.com/",
+   "verified": true,
+   "notes": "",
+   "zip": "28480",
+   "lat": 34.2143016,
+   "lng": -77.7894248,
+   "venueType": "restaurant"
+  },
+  {
+   "name": "Perla Raw Bar",
+   "neighborhood": "Mayfaire",
+   "address": "1039 Ashes Dr, Wilmington, NC 28405",
+   "days": [
+    "Tue"
+   ],
+   "start": "16:00",
+   "end": "18:00",
+   "deals": [
+    "$1.50 oysters 4\u20136pm (limits apply)",
+    "$7 margaritas, $10 Fuego margaritas",
+    "$6 select tacos 4\u20139pm"
+   ],
+   "dealTypes": [
+    "food",
+    "cocktails"
+   ],
+   "website": "",
+   "source": "https://ilmweekly.com/tuesday/",
+   "verified": true,
+   "notes": "Tuesday deals per ILMWeekly; other days verify with venue",
+   "zip": "28405",
+   "lat": 34.2411281,
+   "lng": -77.825347,
+   "venueType": "restaurant",
+   "addressSource": "https://perlarawbar.com/"
+  },
+  {
+   "name": "Shuckin' Shack Oyster Bar (Wilmington)",
+   "neighborhood": "Downtown",
+   "address": "127 N Front St, Wilmington, NC 28401",
+   "days": [
+    "Tue"
+   ],
+   "start": "16:00",
+   "end": "19:00",
+   "deals": [
+    "$1.50 raw local oysters",
+    "$2 chargrilled oysters",
+    "$1.75 wings",
+    "$8 Painkillers"
+   ],
+   "dealTypes": [
+    "food",
+    "cocktails"
+   ],
+   "website": "",
+   "source": "https://ilmweekly.com/tuesday/",
+   "verified": true,
+   "notes": "",
+   "zip": "28401",
+   "lat": 34.236967,
+   "lng": -77.9490359,
+   "venueType": "restaurant",
+   "addressSource": "https://www.theshuckinshack.com/location/wilmington/"
+  },
+  {
+   "name": "Yosake Downtown Sushi Lounge",
+   "neighborhood": "Downtown",
+   "address": "33 S Front St, Wilmington, NC 28401",
+   "days": [
+    "Tue"
+   ],
+   "start": "17:00",
+   "end": "19:00",
+   "deals": [
+    "Half-priced appy hour specials (dine-in)",
+    "2 for $25 specialty rolls",
+    "$6 house wine"
+   ],
+   "dealTypes": [
+    "food",
+    "wine"
+   ],
+   "website": "",
+   "source": "https://ilmweekly.com/tuesday/",
+   "verified": true,
+   "notes": "Voted Best Happy Hour 2026 (Wilmington Magazine)",
+   "zip": "28401",
+   "lat": 34.2343141,
+   "lng": -77.9485032,
+   "venueType": "restaurant"
+  },
+  {
+   "name": "Circa 1922",
+   "neighborhood": "Downtown",
+   "address": "8 N Front St, Wilmington, NC 28401",
+   "days": [
+    "Tue"
+   ],
+   "start": "17:00",
+   "end": "19:00",
+   "deals": [
+    "$8\u2013$12 Appy Hour menu",
+    "$45 three-course prix fixe 5\u20137pm"
+   ],
+   "dealTypes": [
+    "food"
+   ],
+   "website": "",
+   "source": "https://ilmweekly.com/tuesday/",
+   "verified": true,
+   "notes": "",
+   "zip": "28401",
+   "lat": 34.235631,
+   "lng": -77.948651,
+   "venueType": "restaurant"
+  },
+  {
+   "name": "Carolina Ale House",
+   "neighborhood": "Midtown",
+   "address": "317 College Rd, Wilmington, NC 28403",
+   "days": [
+    "Mon",
+    "Tue",
+    "Wed",
+    "Thu",
+    "Fri",
+    "Sat",
+    "Sun"
+   ],
+   "start": "",
+   "end": "",
+   "deals": [
+    "$4 domestic pints",
+    "$12 domestic pitchers",
+    "$5 rotating crafts",
+    "$6 well cocktails",
+    "$7 LIT cocktails"
+   ],
+   "dealTypes": [
+    "beer",
+    "cocktails"
+   ],
+   "website": "",
+   "source": "https://ilmweekly.com/biz/carolina-ale-house/",
+   "verified": true,
+   "notes": "Listed as daily; hours not stated",
+   "zip": "28403",
+   "lat": 34.23692,
+   "lng": -77.8722564,
+   "venueType": "bar"
+  },
+  {
+   "name": "The Harp",
+   "neighborhood": "Downtown",
+   "address": "1423 S 3rd St, Wilmington, NC 28401",
+   "days": [
+    "Mon",
+    "Tue",
+    "Wed",
+    "Thu",
+    "Sun"
+   ],
+   "start": "",
+   "end": "",
+   "deals": [
+    "Mon $2.50 Miller Lite",
+    "Tue half-price wine bottles, $4 Magner's",
+    "Wed $4 Guinness",
+    "Thu $2.50 Yuengling",
+    "Sun $4 Bloodys & mimosas (10\u20133)"
+   ],
+   "dealTypes": [
+    "beer",
+    "wine",
+    "cocktails"
+   ],
+   "website": "https://harpwilmington.com/",
+   "source": "https://harpwilmington.com/specials.html",
+   "verified": true,
+   "notes": "",
+   "zip": "28401",
+   "lat": 34.2175123,
+   "lng": -77.9440647,
+   "venueType": "bar",
+   "addressSource": "https://harpwilmington.com/"
+  },
+  {
+   "name": "Four Corners",
+   "neighborhood": "Wrightsville Beach",
+   "address": "2025 Eastwood Rd, Wilmington, NC 28403",
+   "days": [
+    "Mon",
+    "Tue",
+    "Wed",
+    "Thu",
+    "Fri",
+    "Sat",
+    "Sun"
+   ],
+   "start": "16:00",
+   "end": "18:00",
+   "deals": [
+    "Mon $1 wings, $5 drafts",
+    "Tue $4 tacos & $4 margaritas",
+    "Wed half-price Appy Hour 4\u20136pm",
+    "Thu $15 domestic buckets",
+    "Fri $5 Blue Moon",
+    "Sun $5 mimosas"
+   ],
+   "dealTypes": [
+    "food",
+    "beer",
+    "cocktails"
+   ],
+   "website": "",
+   "source": "https://ilmweekly.com/biz/fourcorners/",
+   "verified": true,
+   "notes": "4\u20136pm window is Wednesday's; other days all-day deals",
+   "zip": "28403",
+   "lat": 34.221345,
+   "lng": -77.818225,
+   "venueType": "restaurant"
+  },
+  {
+   "name": "Laws & Libations",
+   "neighborhood": "Downtown",
+   "address": "108 Grace St, Wilmington, NC 28401",
+   "days": [
+    "Mon",
+    "Tue",
+    "Wed",
+    "Thu",
+    "Fri",
+    "Sat",
+    "Sun"
+   ],
+   "start": "12:00",
+   "end": "24:00",
+   "deals": [
+    "Mon $3 mystery beer",
+    "Wed $5 wine, half-price bottles",
+    "Thu $1 off drafts",
+    "Fri half-price wine bottles",
+    "Sat $4 Guinness"
+   ],
+   "dealTypes": [
+    "beer",
+    "wine",
+    "shots"
+   ],
+   "website": "",
+   "source": "https://www.carolinabeach.com/laws-and-libations.html",
+   "verified": false,
+   "notes": "Third-party listing; verify with venue",
+   "zip": "28401",
+   "lat": 34.2387556,
+   "lng": -77.948917,
+   "venueType": "bar"
+  },
+  {
+   "name": "SeaWitch Tiki Bar",
+   "neighborhood": "Carolina Beach",
+   "address": "227 Carolina Beach Ave N, Carolina Beach, NC 28428",
+   "days": [
+    "Wed"
+   ],
+   "start": "16:00",
+   "end": "19:00",
+   "deals": [
+    "$8 appetizers (off-season HH)",
+    "$2 Michelob Ultra drafts",
+    "$4 Tito's / Jameson / Captain"
+   ],
+   "dealTypes": [
+    "food",
+    "beer",
+    "cocktails"
+   ],
+   "website": "https://seawitchtikibar.com/",
+   "source": "https://nccottages.com/off-season-specials/",
+   "verified": false,
+   "notes": "Older off-season listing; verify with venue",
+   "zip": "28428",
+   "lat": 34.0349622,
+   "lng": -77.891931,
+   "venueType": "bar"
+  },
+  {
+   "name": "Silver Dollar",
+   "neighborhood": "Carolina Beach",
+   "address": "3 Cape Fear Blvd, Carolina Beach, NC 28428",
+   "days": [
+    "Mon",
+    "Tue",
+    "Wed",
+    "Thu",
+    "Sun"
+   ],
+   "start": "",
+   "end": "",
+   "deals": [
+    "Mon $3 imports",
+    "Tue $5 vodka bombs",
+    "Wed $4 wells + $2 High Life",
+    "Thu $5 Cuba Libres",
+    "Sun $5 Bloodys & mimosas"
+   ],
+   "dealTypes": [
+    "beer",
+    "cocktails",
+    "shots"
+   ],
+   "website": "https://silverdollarcb.com/",
+   "source": "https://silverdollarcb.com/drink-menu",
+   "verified": true,
+   "notes": "",
+   "zip": "28428",
+   "lat": 34.0332087,
+   "lng": -77.8927402,
+   "venueType": "bar"
+  },
+  {
+   "name": "Si Se\u00f1or Modern Mex",
+   "neighborhood": "Porters Neck",
+   "address": "140 Hays Ln #190, Wilmington, NC 28411",
+   "days": [
+    "Tue"
+   ],
+   "start": "16:00",
+   "end": "close",
+   "deals": [
+    "$3.50 tacos w/ drink",
+    "$4 Mexican drafts",
+    "$4 house lime margaritas"
+   ],
+   "dealTypes": [
+    "food",
+    "beer",
+    "cocktails"
+   ],
+   "website": "",
+   "source": "https://ilmweekly.com/tuesday/",
+   "verified": true,
+   "notes": "",
+   "zip": "28411",
+   "lat": 34.2968825,
+   "lng": -77.7957231,
+   "venueType": "restaurant",
+   "addressSource": "https://www.sisenormodernmex.com/visit"
+  },
+  {
+   "name": "The Crown & Fiddle Pub",
+   "neighborhood": "Masonboro",
+   "address": "3317 Masonboro Loop Rd, Wilmington, NC 28409",
+   "days": [
+    "Tue"
+   ],
+   "start": "15:00",
+   "end": "17:00",
+   "deals": [
+    "Half-priced apps 3\u20135pm",
+    "Half-priced wine bottles"
+   ],
+   "dealTypes": [
+    "food",
+    "wine"
+   ],
+   "website": "",
+   "source": "https://ilmweekly.com/tuesday/",
+   "verified": true,
+   "notes": "",
+   "zip": "28409",
+   "lat": 34.1841522,
+   "lng": -77.8597443,
+   "venueType": "bar",
+   "addressSource": "OSM/Nominatim"
+  },
+  {
+   "name": "The Rift",
+   "neighborhood": "Midtown",
+   "address": "2144 Wrightsville Ave, Wilmington, NC 28403",
+   "days": [
+    "Tue"
+   ],
+   "start": "15:00",
+   "end": "18:00",
+   "deals": [
+    "$6\u2013$11 Appy Hour menu"
+   ],
+   "dealTypes": [
+    "food"
+   ],
+   "website": "",
+   "source": "https://ilmweekly.com/tuesday/",
+   "verified": true,
+   "notes": "",
+   "zip": "28403",
+   "lat": 34.2292862,
+   "lng": -77.9202849,
+   "venueType": "bar",
+   "addressSource": "https://www.theriftilm.com/contact"
+  },
+  {
+   "name": "Caprice Bistro",
+   "neighborhood": "Downtown",
+   "address": "10 Market St, Wilmington, NC 28401",
+   "days": [
+    "Tue"
+   ],
+   "start": "16:00",
+   "end": "18:00",
+   "deals": [
+    "$7 petit plates bar menu"
+   ],
+   "dealTypes": [
+    "food"
+   ],
+   "website": "",
+   "source": "https://ilmweekly.com/tuesday/",
+   "verified": true,
+   "notes": "",
+   "zip": "28401",
+   "lat": 34.2351127,
+   "lng": -77.949552,
+   "venueType": "restaurant",
+   "addressSource": "https://www.capricebistro.com/hours-contact"
+  },
+  {
+   "name": "Prost Biergarten",
+   "neighborhood": "Downtown",
+   "address": "115 S Front St, Wilmington, NC 28401",
+   "days": [
+    "Tue"
+   ],
+   "start": "16:00",
+   "end": "18:00",
+   "deals": [
+    "Appy Hour menu 4\u20136pm",
+    "$3 Paulaner beers"
+   ],
+   "dealTypes": [
+    "food",
+    "beer"
+   ],
+   "website": "",
+   "source": "https://ilmweekly.com/tuesday/",
+   "verified": true,
+   "notes": "",
+   "zip": "28401",
+   "lat": 34.233519,
+   "lng": -77.948406,
+   "venueType": "restaurant",
+   "addressSource": "https://prostilm.com/"
+  },
+  {
+   "name": "Coquina Fishbar",
+   "neighborhood": "Mayfaire",
+   "address": "890 Town Center Dr, Wilmington, NC 28405",
+   "days": [
+    "Tue"
+   ],
+   "start": "14:00",
+   "end": "17:00",
+   "deals": [
+    "$6 bar-only bites 2\u20135pm",
+    "$3 Mexican beer",
+    "$5 tequila cocktails"
+   ],
+   "dealTypes": [
+    "food",
+    "beer",
+    "cocktails"
+   ],
+   "website": "",
+   "source": "https://ilmweekly.com/tuesday/",
+   "verified": true,
+   "notes": "",
+   "zip": "28405",
+   "lat": 34.2429033,
+   "lng": -77.8324705,
+   "venueType": "restaurant",
+   "addressSource": "https://coquinafishbar.com/contact/"
+  },
+  {
+   "name": "Flytrap Brewing",
+   "neighborhood": "Downtown",
+   "address": "319 Walnut St, Wilmington, NC 28401",
+   "days": [
+    "Tue"
+   ],
+   "start": "15:00",
+   "end": "22:00",
+   "deals": [
+    "$4 all draft full pours"
+   ],
+   "dealTypes": [
+    "beer"
+   ],
+   "website": "",
+   "source": "https://ilmweekly.com/tuesday/",
+   "verified": true,
+   "notes": "",
+   "zip": "28401",
+   "lat": 34.2403434,
+   "lng": -77.9454579,
+   "venueType": "bar",
+   "addressSource": "OSM/Nominatim"
+  },
+  {
+   "name": "Cinch Billiards",
+   "neighborhood": "Downtown",
+   "address": "115 N Front St, Wilmington, NC 28401",
+   "days": [
+    "Tue"
+   ],
+   "start": "16:30",
+   "end": "18:00",
+   "deals": [
+    "Free pool w/ purchase of 2 drinks"
+   ],
+   "dealTypes": [
+    "other"
+   ],
+   "website": "",
+   "source": "https://ilmweekly.com/tuesday/",
+   "verified": true,
+   "notes": "",
+   "zip": "28401",
+   "lat": 34.2367172,
+   "lng": -77.9489765,
+   "venueType": "bar",
+   "addressSource": "https://ilmweekly.com/biz/cinch-billiards/"
+  },
+  {
+   "name": "Hell's Kitchen",
+   "neighborhood": "Downtown",
+   "address": "118 Princess St, Wilmington, NC 28401",
+   "days": [
+    "Tue"
+   ],
+   "start": "",
+   "end": "",
+   "deals": [
+    "$8 specialty cocktails",
+    "$9.99 meatball sub & fries"
+   ],
+   "dealTypes": [
+    "cocktails",
+    "food"
+   ],
+   "website": "",
+   "source": "https://ilmweekly.com/tuesday/",
+   "verified": true,
+   "notes": "",
+   "zip": "28401",
+   "lat": 34.2363757,
+   "lng": -77.948007,
+   "venueType": "bar"
+  },
+  {
+   "name": "The Starling Bar",
+   "neighborhood": "Midtown",
+   "address": "1612 Queen St, Wilmington, NC 28401",
+   "days": [
+    "Tue"
+   ],
+   "start": "",
+   "end": "",
+   "deals": [
+    "$5 well drinks",
+    "$10 tiki-inspired cocktails"
+   ],
+   "dealTypes": [
+    "cocktails"
+   ],
+   "website": "",
+   "source": "https://ilmweekly.com/tuesday/",
+   "verified": true,
+   "notes": "",
+   "zip": "28401",
+   "lat": 34.228075,
+   "lng": -77.9275958,
+   "venueType": "bar",
+   "addressSource": "https://starlingbar.co/"
+  },
+  {
+   "name": "Savard Beer & Board",
+   "neighborhood": "Downtown",
+   "address": "121 S Front St, Wilmington, NC 28401",
+   "days": [
+    "Tue"
+   ],
+   "start": "",
+   "end": "",
+   "deals": [
+    "$5 house-brewed pints",
+    "$8 pre-batched cocktails"
+   ],
+   "dealTypes": [
+    "beer",
+    "cocktails"
+   ],
+   "website": "",
+   "source": "https://ilmweekly.com/tuesday/",
+   "verified": true,
+   "notes": "",
+   "zip": "28401",
+   "lat": 34.233352,
+   "lng": -77.948386,
+   "venueType": "bar",
+   "addressSource": "https://www.savardbeerandboard.com/"
+  },
+  {
+   "name": "Seven Mile Post",
+   "neighborhood": "Ogden",
+   "address": "7219 Market St, Wilmington, NC 28411",
+   "days": [
+    "Tue"
+   ],
+   "start": "",
+   "end": "",
+   "deals": [
+    "$5 select wine",
+    "$5 Austin ciders"
+   ],
+   "dealTypes": [
+    "wine",
+    "beer"
+   ],
+   "website": "",
+   "source": "https://ilmweekly.com/tuesday/",
+   "verified": true,
+   "notes": "",
+   "zip": "28411",
+   "lat": 34.2736947,
+   "lng": -77.8194539,
+   "venueType": "bar",
+   "addressSource": "OSM/Nominatim"
+  },
+  {
+   "name": "Michael's on the Waterfront",
+   "neighborhood": "Downtown",
+   "address": "5 S Water St, Wilmington, NC 28401",
+   "days": [
+    "Tue"
+   ],
+   "start": "",
+   "end": "",
+   "deals": [
+    "$4 well pours"
+   ],
+   "dealTypes": [
+    "cocktails"
+   ],
+   "website": "",
+   "source": "https://ilmweekly.com/tuesday/",
+   "verified": true,
+   "notes": "",
+   "zip": "28401",
+   "lat": 34.2348543,
+   "lng": -77.9496057,
+   "venueType": "restaurant",
+   "addressSource": "https://www.michaelsonthewaterfront.com/"
+  },
+  {
+   "name": "Avenue B",
+   "neighborhood": "Downtown",
+   "address": "723 N 4th St, Wilmington, NC 28401",
+   "days": [
+    "Tue"
+   ],
+   "start": "",
+   "end": "",
+   "deals": [
+    "$2 off signature cocktails"
+   ],
+   "dealTypes": [
+    "cocktails"
+   ],
+   "website": "",
+   "source": "https://ilmweekly.com/tuesday/",
+   "verified": true,
+   "notes": "",
+   "zip": "28401",
+   "lat": 34.2437738,
+   "lng": -77.9457647,
+   "venueType": "bar",
+   "addressSource": "https://avebilm.com/"
+  },
+  {
+   "name": "South Beach Grill",
+   "neighborhood": "Wrightsville Beach",
+   "address": "100 S Lumina Ave, Wrightsville Beach, NC 28480",
+   "days": [
+    "Tue"
+   ],
+   "start": "",
+   "end": "",
+   "deals": [
+    "Half-priced wine bottles"
+   ],
+   "dealTypes": [
+    "wine"
+   ],
+   "website": "",
+   "source": "https://ilmweekly.com/tuesday/",
+   "verified": true,
+   "notes": "",
+   "zip": "28480",
+   "lat": 34.2076107,
+   "lng": -77.7963308,
+   "venueType": "restaurant",
+   "addressSource": "OSM/Nominatim"
+  },
+  {
+   "name": "Tower 7 Baja Mexican Grill",
+   "neighborhood": "Wrightsville Beach",
+   "address": "4 N Lumina Ave, Wrightsville Beach, NC 28480",
+   "days": [
+    "Tue"
+   ],
+   "start": "",
+   "end": "",
+   "deals": [
+    "$3 Dos XX drafts (all day)",
+    "$13.50 Smokey Maple margarita"
+   ],
+   "dealTypes": [
+    "beer",
+    "cocktails"
+   ],
+   "website": "",
+   "source": "https://ilmweekly.com/tuesday/",
+   "verified": true,
+   "notes": "",
+   "zip": "28480",
+   "lat": 34.2083226,
+   "lng": -77.7955367,
+   "venueType": "restaurant",
+   "addressSource": "https://www.tower7.com/locations/wrightsville/"
+  },
+  {
+   "name": "Havana's Restaurant",
+   "neighborhood": "Carolina Beach",
+   "address": "1 N Lake Park Blvd, Carolina Beach, NC 28428",
+   "days": [
+    "Tue"
+   ],
+   "start": "",
+   "end": "",
+   "deals": [
+    "$7 margaritas",
+    "Half-priced nachos & tacos"
+   ],
+   "dealTypes": [
+    "cocktails",
+    "food"
+   ],
+   "website": "",
+   "source": "https://ilmweekly.com/tuesday/",
+   "verified": true,
+   "notes": "",
+   "zip": "28428",
+   "lat": 34.0339065,
+   "lng": -77.8944477,
+   "venueType": "restaurant",
+   "addressSource": "OSM/Nominatim"
+  },
+  {
+   "name": "Carolina Beach Grill & Bar",
+   "neighborhood": "Carolina Beach",
+   "address": "102 Cape Fear Blvd, Carolina Beach, NC 28428",
+   "days": [
+    "Tue"
+   ],
+   "start": "",
+   "end": "",
+   "deals": [
+    "$6 Tito's",
+    "$5 off tacos"
+   ],
+   "dealTypes": [
+    "cocktails",
+    "food"
+   ],
+   "website": "",
+   "source": "https://ilmweekly.com/tuesday/",
+   "verified": true,
+   "notes": "",
+   "zip": "28428",
+   "lat": 34.0333728,
+   "lng": -77.8932468,
+   "venueType": "bar",
+   "addressSource": "https://cbgbrestaurant.com/"
+  },
+  {
+   "name": "Nineteen Restaurant & Bar",
+   "neighborhood": "Hampstead",
+   "address": "513 Country Club Dr, Hampstead, NC 28443",
+   "days": [
+    "Tue"
+   ],
+   "start": "",
+   "end": "",
+   "deals": [
+    "$5 house wine",
+    "$5 well drinks",
+    "$10 domestic pitchers",
+    "$6 select apps"
+   ],
+   "dealTypes": [
+    "wine",
+    "cocktails",
+    "beer",
+    "food"
+   ],
+   "website": "",
+   "source": "https://ilmweekly.com/tuesday/",
+   "verified": true,
+   "notes": "Listed in ILMWeekly's last area section; confirm area",
+   "zip": "28443",
+   "lat": null,
+   "lng": null,
+   "venueType": "restaurant",
+   "addressSource": "https://oldepointgolf.com/dining/"
+  },
+  {
+   "name": "Bud & Joe's Sandbar",
+   "neighborhood": "Kure Beach",
+   "address": "108 K Ave, Kure Beach, NC 28449",
+   "days": [
+    "Fri"
+   ],
+   "start": "",
+   "end": "",
+   "deals": [
+    "Daily beer & drink specials; 'ultimate' Friday special Oct\u2013Mar \u2014 details verify with venue"
+   ],
+   "dealTypes": [
+    "beer"
+   ],
+   "website": "https://budandjoes.com/",
+   "source": "https://budandjoes.com/home.html",
+   "verified": false,
+   "notes": "",
+   "zip": "28449",
+   "lat": 33.9983043,
+   "lng": -77.9061495,
+   "venueType": "bar"
+  },
+  {
+   "name": "Shuckin' Oyster Bar (Leland)",
+   "neighborhood": "Leland",
+   "address": "1175 Turlington Ave #101, Leland, NC 28451",
+   "days": [
+    "Tue"
+   ],
+   "start": "15:00",
+   "end": "17:00",
+   "deals": [
+    "$1.25 raw oysters",
+    "$1.50 wings",
+    "$5 Tito's"
+   ],
+   "dealTypes": [
+    "food",
+    "cocktails"
+   ],
+   "website": "",
+   "source": "https://ilmweekly.com/tuesday/",
+   "verified": true,
+   "notes": "",
+   "zip": "28451",
+   "lat": null,
+   "lng": null,
+   "venueType": "restaurant",
+   "addressSource": "https://www.theshuckinshack.com/location-leland"
+  }
+ ]
+}
