@@ -3,7 +3,7 @@
 A happy hour finder for **Wilmington, NC** and nearby beaches. Search by neighborhood, bar, restaurant, or zip, browse the spots on an interactive map, and filter by day, deal type, or what's happening right now.
 
 **Repo:** [5pm-ILM](https://github.com/johnnycchapman/5pm-ILM)  
-**Live:** https://johnnycchapman.github.io/5pm-ILM/
+**Live:** https://5pmilm.com (also https://johnnycchapman.github.io/5pm-ILM/)
 
 ![Wilmington Happy Hour home page](docs/screenshot.png)
 
@@ -52,6 +52,6 @@ python3 -m http.server 8000
 To rename the site, change the text marked `data-site-name` in `index.html`.
 
 ## Deploy
-Hosted on GitHub Pages from the `main` branch root of **5pm-ILM** (`.nojekyll` included): https://johnnycchapman.github.io/5pm-ILM/. All asset paths are relative, so it works under `/5pm-ILM/`.
+Hosted on GitHub Pages from the `main` branch root of **5pm-ILM** (`.nojekyll` included). Custom domain: https://5pmilm.com. The github.io URL remains https://johnnycchapman.github.io/5pm-ILM/. All asset paths are relative, so it works under `/5pm-ILM/`.
 
 Map tiles © Esri, HERE, Garmin, © OpenStreetMap contributors.
