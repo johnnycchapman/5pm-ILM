@@ -878,7 +878,7 @@
   {
    "name": "Shuckin' Oyster Bar (Leland)",
    "neighborhood": "Leland",
-   "address": "1175 Turlington Ave #101, Leland, NC 28451",
+   "address": "1175 Turlington Ave Unit 101, Leland, NC 28451",
    "days": [
     "Tue"
    ],
@@ -896,10 +896,10 @@
    "website": "",
    "source": "https://ilmweekly.com/tuesday/",
    "verified": true,
-   "notes": "",
+   "notes": "Map position is approximate (near Turlington Ave / Village Rd). Geocoder did not match this address.",
    "zip": "28451",
-   "lat": null,
-   "lng": null,
+   "lat": 34.2357,
+   "lng": -78.0247,
    "venueType": "restaurant",
    "addressSource": "https://www.theshuckinshack.com/location-leland"
   }
