@@ -1,5 +1,5 @@
 {
- "generated": "2026-10-13",
+ "generated": "2026-10-14",
  "note": "Deals change often; confirm with venues.",
  "spots": [
   {
@@ -902,6 +902,554 @@
    "lng": -78.0247,
    "venueType": "restaurant",
    "addressSource": "https://www.theshuckinshack.com/location-leland"
+  },
+  {
+   "name": "South Front Tavern",
+   "neighborhood": "Downtown",
+   "address": "",
+   "days": [
+    "Mon",
+    "Tue",
+    "Wed",
+    "Thu",
+    "Fri"
+   ],
+   "start": "16:00",
+   "end": "18:00",
+   "deals": [
+    "$5 Happy Hour Bar Bites menu (bar & outside high tops)",
+    "Site also advertises $5 bar bites 12-6 PM"
+   ],
+   "dealTypes": [
+    "food"
+   ],
+   "website": "https://www.southfronttavern.com/",
+   "source": "https://www.southfronttavern.com/",
+   "verified": false,
+   "notes": "No street address in the source file, so this spot is not on the map.",
+   "zip": "",
+   "lat": null,
+   "lng": null,
+   "venueType": "bar"
+  },
+  {
+   "name": "Seabird",
+   "neighborhood": "Downtown",
+   "address": "1 S Front St, Wilmington, NC 28401",
+   "days": [
+    "Mon"
+   ],
+   "start": "17:00",
+   "end": "18:00",
+   "deals": [
+    "$1 oyster Appy Hour"
+   ],
+   "dealTypes": [
+    "food"
+   ],
+   "website": "",
+   "source": "https://ilmweekly.com/biz/seabird/",
+   "verified": true,
+   "notes": "",
+   "zip": "28401",
+   "lat": 34.235195,
+   "lng": -77.948597,
+   "venueType": "restaurant",
+   "addressSource": "https://ilmweekly.com/biz/seabird/"
+  },
+  {
+   "name": "Elijah's",
+   "neighborhood": "Downtown",
+   "address": "2 Ann St, Wilmington, NC 28401",
+   "days": [
+    "Wed"
+   ],
+   "start": "16:00",
+   "end": "18:00",
+   "deals": [
+    "Wed half-priced oysters 4-6pm, $9 spritzes",
+    "Mon $6 house margaritas",
+    "Tue $4 select cans/bottles",
+    "Sun $5 mimosas"
+   ],
+   "dealTypes": [
+    "food",
+    "cocktails"
+   ],
+   "website": "",
+   "source": "https://ilmweekly.com/biz/elijahs/",
+   "verified": true,
+   "notes": "Mon, Tue, and Sun drink deals are listed but are not part of the Wed 4-6pm window.",
+   "zip": "28401",
+   "lat": 34.231061,
+   "lng": -77.949305,
+   "venueType": "restaurant",
+   "addressSource": "https://ilmweekly.com/biz/elijahs/"
+  },
+  {
+   "name": "Rx Chicken and Oysters",
+   "neighborhood": "Downtown",
+   "address": "421 Castle St, Wilmington, NC 28401",
+   "days": [
+    "Wed",
+    "Thu",
+    "Fri"
+   ],
+   "start": "17:00",
+   "end": "18:00",
+   "deals": [
+    "Half-priced select oysters"
+   ],
+   "dealTypes": [
+    "food"
+   ],
+   "website": "",
+   "source": "https://ilmweekly.com/biz/rx-chicken-and-oysters/",
+   "verified": true,
+   "notes": "",
+   "zip": "28401",
+   "lat": 34.2282201,
+   "lng": -77.9434499,
+   "venueType": "restaurant",
+   "addressSource": "https://ilmweekly.com/biz/rx-chicken-and-oysters/"
+  },
+  {
+   "name": "The German Cafe",
+   "neighborhood": "Downtown",
+   "address": "316 Nutt St (Cotton Exchange), Wilmington, NC 28401",
+   "days": [
+    "Wed"
+   ],
+   "start": "15:00",
+   "end": "17:00",
+   "deals": [
+    "Wed $1 off drafts, $10 wurst sandwiches",
+    "Tue $1 off bottled beer",
+    "Thu half-price wine bottles"
+   ],
+   "dealTypes": [
+    "beer",
+    "food",
+    "wine"
+   ],
+   "website": "",
+   "source": "https://ilmweekly.com/biz/the-german-cafe/",
+   "verified": true,
+   "notes": "Tue and Thu deals are listed but are not part of the Wed 3-5pm window.",
+   "zip": "28401",
+   "lat": 34.2394629,
+   "lng": -77.9498336,
+   "venueType": "restaurant",
+   "addressSource": "https://ilmweekly.com/biz/the-german-cafe/"
+  },
+  {
+   "name": "Farfalla",
+   "neighborhood": "Downtown",
+   "address": "1502 S 3rd St, Wilmington, NC 28401",
+   "days": [
+    "Wed",
+    "Thu",
+    "Fri",
+    "Sat"
+   ],
+   "start": "17:00",
+   "end": "19:00",
+   "deals": [
+    "$5 bar snacks (bar, patio)"
+   ],
+   "dealTypes": [
+    "food"
+   ],
+   "website": "",
+   "source": "https://ilmweekly.com/biz/farfalla/",
+   "verified": true,
+   "notes": "",
+   "zip": "28401",
+   "lat": 34.2164702,
+   "lng": -77.943944,
+   "venueType": "restaurant",
+   "addressSource": "https://ilmweekly.com/biz/farfalla/"
+  },
+  {
+   "name": "Commodore Public House & Kitchen",
+   "neighborhood": "Downtown",
+   "address": "620 N 4th St, Wilmington, NC 28401",
+   "days": [
+    "Fri"
+   ],
+   "start": "16:00",
+   "end": "18:00",
+   "deals": [
+    "Fri $3 off all apps 4-6pm",
+    "Mon $7 All-American",
+    "Tue $12 sandwiches+fries",
+    "Thu $5 mug drafts",
+    "Sat $9 rum punch"
+   ],
+   "dealTypes": [
+    "food",
+    "beer",
+    "cocktails"
+   ],
+   "website": "",
+   "source": "https://ilmweekly.com/biz/commodore/",
+   "verified": true,
+   "notes": "Mon, Tue, Thu, and Sat deals are listed but are not part of the Fri 4-6pm window.",
+   "zip": "28401",
+   "lat": 34.2430506,
+   "lng": -77.9454785,
+   "venueType": "restaurant",
+   "addressSource": "https://ilmweekly.com/biz/commodore/"
+  },
+  {
+   "name": "Lazy Pirate Sports Grill & Axe Throwing",
+   "neighborhood": "Carolina Beach",
+   "address": "701 N Lake Park Blvd, Carolina Beach, NC 28428",
+   "days": [
+    "Wed"
+   ],
+   "start": "16:00",
+   "end": "20:00",
+   "deals": [
+    "$8 wing baskets",
+    "AYCE crab legs (market price)"
+   ],
+   "dealTypes": [
+    "food"
+   ],
+   "website": "",
+   "source": "https://ilmweekly.com/wednesday/",
+   "verified": true,
+   "notes": "Street address was not in the research file; placed from the OpenStreetMap Nominatim match for The Lazy Pirate.",
+   "zip": "28428",
+   "lat": 34.0397877,
+   "lng": -77.895393,
+   "venueType": "bar",
+   "addressSource": "OSM/Nominatim"
+  },
+  {
+   "name": "The Sounder",
+   "neighborhood": "Midtown",
+   "address": "5400 Oleander Dr, Wilmington, NC 28403",
+   "days": [
+    "Wed",
+    "Sun"
+   ],
+   "start": "",
+   "end": "",
+   "deals": [
+    "Wed $1 oysters (limit 1 dozen)",
+    "Sun $3 mimosas"
+   ],
+   "dealTypes": [
+    "food",
+    "cocktails"
+   ],
+   "website": "",
+   "source": "https://ilmweekly.com/biz/the-sounder/",
+   "verified": true,
+   "notes": "Times were not published.",
+   "zip": "28403",
+   "lat": 34.2083036,
+   "lng": -77.8600845,
+   "venueType": "restaurant",
+   "addressSource": "https://ilmweekly.com/biz/the-sounder/"
+  },
+  {
+   "name": "K38 Baja Grill (Oleander)",
+   "neighborhood": "Midtown",
+   "address": "5410 Oleander Dr, Wilmington, NC 28403",
+   "days": [
+    "Mon",
+    "Tue",
+    "Wed",
+    "Sun"
+   ],
+   "start": "",
+   "end": "",
+   "deals": [
+    "Mon everything $5 (fish tacos, margaritas, queso, guac)",
+    "Tue fajitas, $3 Dos XX",
+   "Wed half-off quesadilla, $3 Miller Lite"
+  ],
+   "dealTypes": [
+    "food",
+    "cocktails",
+    "beer"
+   ],
+   "website": "https://k38bajagrill.com/locations/oleander/",
+   "source": "https://k38bajagrill.com/locations/oleander/",
+   "verified": false,
+   "notes": "Food specials from 5 PM; drink specials all day. Dine-in only. Sunday is listed, but no Sunday special was published.",
+   "zip": "28403",
+   "lat": 34.2083089,
+   "lng": -77.8600085,
+   "venueType": "restaurant",
+   "addressSource": "https://k38bajagrill.com/locations/oleander/"
+  },
+  {
+   "name": "Leland Brewing Company",
+   "neighborhood": "Leland",
+   "address": "133 Old Fayetteville Rd, Leland, NC 28451",
+   "days": [
+    "Mon",
+    "Tue",
+    "Wed",
+    "Thu",
+    "Sun"
+   ],
+   "start": "",
+   "end": "",
+   "deals": [
+    "Mon $4 Leland Lights",
+    "Tue $1 off wine",
+    "Wed $2 off 4-packs",
+    "Thu $20 pitchers",
+    "Sun $10 flights"
+   ],
+   "dealTypes": [
+    "beer",
+    "wine"
+   ],
+   "website": "",
+   "source": "https://ilmweekly.com/biz/leland-brewing/",
+   "verified": true,
+   "notes": "Times were not published.",
+   "zip": "28451",
+   "lat": 34.2375325,
+   "lng": -78.0082458,
+   "venueType": "bar",
+   "addressSource": "https://ilmweekly.com/biz/leland-brewing/"
+  },
+  {
+   "name": "Locals Tavern",
+   "neighborhood": "Leland",
+   "address": "1107 New Pointe Blvd Ste 9, Leland, NC 28451",
+   "days": [
+    "Wed"
+   ],
+   "start": "",
+   "end": "",
+   "deals": [
+    "$1 off pints all day",
+    "Hot dog specials"
+   ],
+   "dealTypes": [
+    "beer",
+    "food"
+   ],
+   "website": "",
+   "source": "https://ilmweekly.com/wednesday/",
+   "verified": true,
+   "notes": "Pints all day; hot dog specials 11 AM-4 PM.",
+   "zip": "28451",
+   "lat": 34.210078,
+   "lng": -78.027037,
+   "venueType": "bar",
+   "addressSource": "https://ilmweekly.com/wednesday/"
+  },
+  {
+   "name": "K38 Baja Grill (Carolina Beach)",
+   "neighborhood": "Carolina Beach",
+   "address": "N Lake Park Blvd, Carolina Beach, NC 28428",
+   "days": [
+    "Mon",
+    "Tue",
+    "Wed",
+    "Sun"
+   ],
+   "start": "",
+   "end": "",
+   "deals": [
+    "Mon $5 items",
+    "Tue $3 Dos XX",
+    "Wed $3 Miller Lite",
+    "Sun $2 Miller Lite, $6.50 mimosa, $10 wings"
+   ],
+   "dealTypes": [
+    "food",
+    "beer",
+    "cocktails"
+   ],
+   "website": "https://k38bajagrill.com/locations/carolina-beach/",
+   "source": "https://k38bajagrill.com/locations/carolina-beach/",
+   "verified": false,
+   "notes": "Food from 5 PM; drinks all day. Address has no street number. Nominatim only matched the boulevard, so this spot is not on the map.",
+   "zip": "28428",
+   "lat": null,
+   "lng": null,
+   "venueType": "restaurant",
+   "addressSource": "https://k38bajagrill.com/locations/carolina-beach/"
+  },
+  {
+   "name": "Sunny Daze Smokehouse",
+   "neighborhood": "Carolina Beach",
+   "address": "9 Pavilion Ave S, Carolina Beach, NC 28428",
+   "days": [
+    "Mon",
+    "Wed",
+    "Thu",
+    "Sun"
+   ],
+   "start": "",
+   "end": "",
+   "deals": [
+    "Mon $4 Bud",
+    "Wed 25% off apps, $1 off drafts",
+    "Thu $2.50 chargrilled oysters, $5 wine",
+    "Sun $1 wings, $5 mimosas"
+   ],
+   "dealTypes": [
+    "beer",
+    "food",
+    "wine",
+    "cocktails"
+   ],
+   "website": "",
+   "source": "https://ilmweekly.com/biz/sunnydaze/",
+   "verified": true,
+   "notes": "Listed as daily specials; only these days were published. Times were not published.",
+   "zip": "28428",
+   "lat": 34.0335644,
+   "lng": -77.8923546,
+   "venueType": "restaurant",
+   "addressSource": "https://ilmweekly.com/biz/sunnydaze/"
+  },
+  {
+   "name": "Hoplite Irish Pub & Restaurant",
+   "neighborhood": "Carolina Beach",
+   "address": "720 N Lake Park Blvd, Carolina Beach, NC 28428",
+   "days": [
+    "Wed"
+   ],
+   "start": "",
+   "end": "",
+   "deals": [
+    "$3 Ultra bottles",
+    "Prime rib dinner"
+   ],
+   "dealTypes": [
+    "beer",
+    "food"
+   ],
+   "website": "",
+   "source": "https://ilmweekly.com/wednesday/",
+   "verified": true,
+   "notes": "Times were not published. Street address was not in the research file; placed from the OpenStreetMap Nominatim match.",
+   "zip": "28428",
+   "lat": 34.0401097,
+   "lng": -77.8948699,
+   "venueType": "bar",
+   "addressSource": "OSM/Nominatim"
+  },
+  {
+   "name": "Putter Pub",
+   "neighborhood": "Carolina Beach",
+   "address": "801 St Joseph St, Carolina Beach, NC 28428",
+   "days": [
+    "Wed"
+   ],
+   "start": "",
+   "end": "",
+   "deals": [
+    "$3 pilsner",
+    "$3 White Claw",
+    "$5 White Tee shot",
+    "$6 Transfusion"
+   ],
+   "dealTypes": [
+    "beer",
+    "other",
+    "shots",
+    "cocktails"
+   ],
+   "website": "",
+   "source": "https://ilmweekly.com/wednesday/",
+   "verified": true,
+   "notes": "Times were not published.",
+   "zip": "28428",
+   "lat": 34.040304,
+   "lng": -77.893974,
+   "venueType": "bar",
+   "addressSource": "https://ilmweekly.com/wednesday/"
+  },
+  {
+   "name": "Good Hops Brewing",
+   "neighborhood": "Carolina Beach",
+   "address": "811 Harper Ave, Carolina Beach, NC 28428",
+   "days": [
+    "Wed"
+   ],
+   "start": "",
+   "end": "",
+   "deals": [
+    "$3 off pitchers"
+   ],
+   "dealTypes": [
+    "beer"
+   ],
+   "website": "",
+   "source": "https://ilmweekly.com/wednesday/",
+   "verified": true,
+   "notes": "Times were not published. Street address was not in the research file; placed from the OpenStreetMap Nominatim match for Good Hops Brewery.",
+   "zip": "28428",
+   "lat": 34.0418569,
+   "lng": -77.9047509,
+   "venueType": "bar",
+   "addressSource": "OSM/Nominatim"
+  },
+  {
+   "name": "Stoked Restaurant",
+   "neighborhood": "Carolina Beach",
+   "address": "",
+   "days": [
+    "Wed"
+   ],
+   "start": "",
+   "end": "",
+   "deals": [
+    "Half-price wine pours"
+   ],
+   "dealTypes": [
+    "wine"
+   ],
+   "website": "",
+   "source": "https://ilmweekly.com/wednesday/",
+   "verified": true,
+   "notes": "Times were not published. No street address in the source file, so this spot is not on the map.",
+   "zip": "",
+   "lat": null,
+   "lng": null,
+   "venueType": "restaurant"
+  },
+  {
+   "name": "Shuckin' Shack Oyster Bar (Carolina Beach)",
+   "neighborhood": "Carolina Beach",
+   "address": "6 N Lake Park Blvd, Carolina Beach, NC 28428",
+   "days": [
+    "Wed"
+   ],
+   "start": "",
+   "end": "",
+   "deals": [
+    "$0.75 steamed clams",
+    "$4 select pints",
+    "$9 Moscow Mule"
+   ],
+   "dealTypes": [
+    "food",
+    "beer",
+    "cocktails"
+   ],
+   "website": "",
+   "source": "https://ilmweekly.com/wednesday/",
+   "verified": true,
+   "notes": "Times were not published. Street address was not in the research file; placed from the OpenStreetMap Nominatim match.",
+   "zip": "28428",
+   "lat": 34.0340218,
+   "lng": -77.8938584,
+   "venueType": "restaurant",
+   "addressSource": "OSM/Nominatim"
   }
  ]
 }
