@@ -1,11 +1,11 @@
-# Wilmington Happy Hour
+# Cheers ILM
 
 A happy hour finder for **Wilmington, NC** and nearby beaches. Search by neighborhood, bar, restaurant, or zip, browse the spots on an interactive map, and filter by day, deal type, or what's happening right now.
 
 **Repo:** [5pm-ILM](https://github.com/johnnycchapman/5pm-ILM)  
 **Live:** https://cheersilm.com (https://5pmilm.com forwards here; also https://johnnycchapman.github.io/5pm-ILM/)
 
-![Wilmington Happy Hour home page](docs/screenshot.png)
+![Cheers ILM home page](docs/screenshot.png)
 
 ## Who it's for
 Locals and visitors looking for their next happy hour spot, from Downtown and the Riverfront to Wrightsville, Carolina, and Kure Beach.
@@ -49,7 +49,7 @@ python3 -m http.server 8000
 3. Bump the cache-bust version (`?v=3` → `?v=4`) in `index.html` and in the `fetch` call in `js/app.js`, so visitors get the new data.
 4. Commit and push. GitHub Pages redeploys automatically.
 
-To rename the site, change the text marked `data-site-name` in `index.html`.
+To rename the site, change the footer text marked `data-site-name` in `index.html`. The hero wordmark stays Wilmington / Happy Hour.
 
 ## Deploy
 Hosted on GitHub Pages from the `main` branch root of **5pm-ILM** (`.nojekyll` included). Custom domain: https://cheersilm.com. https://5pmilm.com forwards to it. The github.io URL remains https://johnnycchapman.github.io/5pm-ILM/. All asset paths are relative, so it works under `/5pm-ILM/`.
