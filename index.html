@@ -1,12 +1,12 @@
 <!doctype html><html lang="en"><head><meta charset="utf-8"><meta name="viewport" content="width=device-width,initial-scale=1">
 <title>Wilmington Happy Hour</title><meta name="description" content="Find your next happy hour in Wilmington, NC.">
-<link rel="icon" href="favicon.svg?v=7" type="image/svg+xml">
-<link rel="icon" href="favicon-32.png?v=7" type="image/png" sizes="32x32">
-<link rel="apple-touch-icon" href="apple-touch-icon.png?v=7">
+<link rel="icon" href="favicon.svg?v=8" type="image/svg+xml">
+<link rel="icon" href="favicon-32.png?v=8" type="image/png" sizes="32x32">
+<link rel="apple-touch-icon" href="apple-touch-icon.png?v=8">
 <meta name="theme-color" content="#0f1e2e">
 <link rel="preconnect" href="https://fonts.googleapis.com"><link href="https://fonts.googleapis.com/css2?family=Oswald:wght@500;700&family=Inter:wght@400;500;600&family=JetBrains+Mono:wght@400;500&display=swap" rel="stylesheet">
 <link rel="stylesheet" href="https://unpkg.com/leaflet@1.9.4/dist/leaflet.css" crossorigin="">
-<link rel="stylesheet" href="css/style.css?v=7"></head><body>
+<link rel="stylesheet" href="css/style.css?v=8"></head><body>
 <header class="hero"><div class="glow"></div>
 <h1 class="mark"><span class="mark-top" data-site-name>Wilmington</span><span class="mark-sub">Happy Hour</span></h1>
 <p class="mono">Wilmington, NC · Happy Hour Guide · <span id="clock">--:--</span></p>
@@ -15,6 +15,7 @@
 <input id="q" type="search" placeholder="Neighborhood, bar, restaurant, or zip..." aria-label="Search happy hours" autocomplete="off">
 <button type="button" id="locate" class="locate" title="Use my location" aria-label="Use my location"><svg viewBox="0 0 24 24" width="18" height="18"><path d="M3 11l18-8-8 18-2-8z" fill="currentColor"/></svg></button></div>
 <button type="submit" class="cta">It's 5 O'Clock Somewhere</button></form>
+<p class="disclaimer">Deals and hours change often. Always check the venue's website for the most accurate, current happy hour info before you go.</p>
 <nav class="browse"><span class="mono small">Browse</span><div id="hoodChips"></div></nav>
 <main class="wrap">
 <div class="filters"><div class="chips" id="dayChips"></div>
@@ -24,7 +25,6 @@
 <section class="split"><div class="mapwrap"><div id="map" aria-label="Map of happy hour spots"></div>
 <div class="legend"><span><i class="pin bar"></i>Bar</span><span><i class="pin restaurant"></i>Restaurant</span><span><i class="pin live"></i>Happening now</span></div></div>
 <div class="list"><p class="hint" id="hint">Search or pick an area to narrow the map. Tap a card to find it.</p><div id="grid" class="grid"></div></div></section>
-<p class="disclaimer">Deals change often. Always check with the venue before you go. Listings marked <span class="tag warn">verify</span> couldn't be fully confirmed.</p>
-</main><footer class="wrap"><span data-site-name>Wilmington</span> Happy Hour · Sources linked on each card.</footer>
+</main><footer class="wrap"><p class="disclaimer">Deals and hours change often. Always check the venue's website for the most accurate, current happy hour info before you go.</p><span data-site-name>Wilmington</span> Happy Hour · Sources linked on each card.</footer>
 <script src="https://unpkg.com/leaflet@1.9.4/dist/leaflet.js" crossorigin=""></script>
-<script src="js/app.js?v=7"></script></body></html>
+<script src="js/app.js?v=8"></script></body></html>

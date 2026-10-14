@@ -24,6 +24,8 @@
     "food"
    ],
    "website": "https://shark-bar.com/",
+   "happyHourUrl": "https://shark-bar.com/",
+   "happyHourDedicated": false,
    "source": "https://shark-bar.com/",
    "verified": true,
    "notes": "",
@@ -51,6 +53,8 @@
     "cocktails"
    ],
    "website": "",
+   "happyHourUrl": "https://www.perlarawbar.com/",
+   "happyHourDedicated": false,
    "source": "https://ilmweekly.com/tuesday/",
    "verified": true,
    "notes": "Tuesday deals per ILMWeekly; other days verify with venue",
@@ -80,6 +84,8 @@
     "cocktails"
    ],
    "website": "",
+   "happyHourUrl": "",
+   "happyHourDedicated": false,
    "source": "https://ilmweekly.com/tuesday/",
    "verified": true,
    "notes": "",
@@ -108,6 +114,8 @@
     "wine"
    ],
    "website": "",
+   "happyHourUrl": "https://yosake.com/wp-content/static/documents/24-2-16-daily.pdf",
+   "happyHourDedicated": true,
    "source": "https://ilmweekly.com/tuesday/",
    "verified": true,
    "notes": "Voted Best Happy Hour 2026 (Wilmington Magazine)",
@@ -133,6 +141,8 @@
     "food"
    ],
    "website": "",
+   "happyHourUrl": "https://www.circa1922.com/s/Circa-1922-Fall-2025-Bar-Menu.pdf",
+   "happyHourDedicated": true,
    "source": "https://ilmweekly.com/tuesday/",
    "verified": true,
    "notes": "",
@@ -168,6 +178,8 @@
     "cocktails"
    ],
    "website": "",
+   "happyHourUrl": "",
+   "happyHourDedicated": false,
    "source": "https://ilmweekly.com/biz/carolina-ale-house/",
    "verified": true,
    "notes": "Listed as daily; hours not stated",
@@ -202,6 +214,8 @@
     "cocktails"
    ],
    "website": "https://harpwilmington.com/",
+   "happyHourUrl": "https://harpwilmington.com/specials.html",
+   "happyHourDedicated": true,
    "source": "https://harpwilmington.com/specials.html",
    "verified": true,
    "notes": "",
@@ -240,6 +254,8 @@
     "cocktails"
    ],
    "website": "",
+   "happyHourUrl": "https://fourcornerswb.com/wilmington-four-corners-wrightsville-beach-happy-hours-specials",
+   "happyHourDedicated": true,
    "source": "https://ilmweekly.com/biz/fourcorners/",
    "verified": true,
    "notes": "4\u20136pm window is Wednesday's; other days all-day deals",
@@ -276,6 +292,8 @@
     "shots"
    ],
    "website": "",
+   "happyHourUrl": "https://lawsandlibations.com/",
+   "happyHourDedicated": true,
    "source": "https://www.carolinabeach.com/laws-and-libations.html",
    "verified": false,
    "notes": "Third-party listing; verify with venue",
@@ -304,6 +322,8 @@
     "cocktails"
    ],
    "website": "https://seawitchtikibar.com/",
+   "happyHourUrl": "https://seawitchtikibar.com/menus/",
+   "happyHourDedicated": true,
    "source": "https://nccottages.com/off-season-specials/",
    "verified": false,
    "notes": "Older off-season listing; verify with venue",
@@ -338,6 +358,8 @@
     "shots"
    ],
    "website": "https://silverdollarcb.com/",
+   "happyHourUrl": "https://silverdollarcb.com/drink-menu",
+   "happyHourDedicated": false,
    "source": "https://silverdollarcb.com/drink-menu",
    "verified": true,
    "notes": "",
@@ -366,6 +388,8 @@
     "cocktails"
    ],
    "website": "",
+   "happyHourUrl": "https://www.sisenormodernmex.com/daily-specials",
+   "happyHourDedicated": true,
    "source": "https://ilmweekly.com/tuesday/",
    "verified": true,
    "notes": "",
@@ -393,6 +417,8 @@
     "wine"
    ],
    "website": "",
+   "happyHourUrl": "https://www.crownandfiddle.com/menu",
+   "happyHourDedicated": false,
    "source": "https://ilmweekly.com/tuesday/",
    "verified": true,
    "notes": "",
@@ -418,6 +444,8 @@
     "food"
    ],
    "website": "",
+   "happyHourUrl": "https://www.theriftilm.com/",
+   "happyHourDedicated": false,
    "source": "https://ilmweekly.com/tuesday/",
    "verified": true,
    "notes": "",
@@ -443,6 +471,8 @@
     "food"
    ],
    "website": "",
+   "happyHourUrl": "https://www.capricebistro.com/happy-hour-petit-plates",
+   "happyHourDedicated": true,
    "source": "https://ilmweekly.com/tuesday/",
    "verified": true,
    "notes": "",
@@ -470,6 +500,8 @@
     "beer"
    ],
    "website": "",
+   "happyHourUrl": "https://prostilm.com/wilmington-downtown-prost-biergarten-happy-hours-specials",
+   "happyHourDedicated": true,
    "source": "https://ilmweekly.com/tuesday/",
    "verified": true,
    "notes": "",
@@ -499,6 +531,8 @@
     "cocktails"
    ],
    "website": "",
+   "happyHourUrl": "https://coquinafishbar.com/at-the-bar/",
+   "happyHourDedicated": true,
    "source": "https://ilmweekly.com/tuesday/",
    "verified": true,
    "notes": "",
@@ -524,6 +558,8 @@
     "beer"
    ],
    "website": "",
+   "happyHourUrl": "https://www.flytrapbrewing.com/menu",
+   "happyHourDedicated": false,
    "source": "https://ilmweekly.com/tuesday/",
    "verified": true,
    "notes": "",
@@ -549,6 +585,8 @@
     "other"
    ],
    "website": "",
+   "happyHourUrl": "",
+   "happyHourDedicated": false,
    "source": "https://ilmweekly.com/tuesday/",
    "verified": true,
    "notes": "",
@@ -576,6 +614,8 @@
     "food"
    ],
    "website": "",
+   "happyHourUrl": "https://hellskitchenbar.com/",
+   "happyHourDedicated": true,
    "source": "https://ilmweekly.com/tuesday/",
    "verified": true,
    "notes": "",
@@ -601,6 +641,8 @@
     "cocktails"
    ],
    "website": "",
+   "happyHourUrl": "https://starlingbar.co/the-starling-menus/",
+   "happyHourDedicated": true,
    "source": "https://ilmweekly.com/tuesday/",
    "verified": true,
    "notes": "",
@@ -628,6 +670,8 @@
     "cocktails"
    ],
    "website": "",
+   "happyHourUrl": "https://www.savardbeerandboard.com/",
+   "happyHourDedicated": true,
    "source": "https://ilmweekly.com/tuesday/",
    "verified": true,
    "notes": "",
@@ -655,6 +699,8 @@
     "beer"
    ],
    "website": "",
+   "happyHourUrl": "https://sevenmilepost.com/drink-specials/",
+   "happyHourDedicated": true,
    "source": "https://ilmweekly.com/tuesday/",
    "verified": true,
    "notes": "",
@@ -680,6 +726,8 @@
     "cocktails"
    ],
    "website": "",
+   "happyHourUrl": "https://www.michaelsonthewaterfront.com/food",
+   "happyHourDedicated": false,
    "source": "https://ilmweekly.com/tuesday/",
    "verified": true,
    "notes": "",
@@ -705,6 +753,8 @@
     "cocktails"
    ],
    "website": "",
+   "happyHourUrl": "https://avebilm.com/",
+   "happyHourDedicated": false,
    "source": "https://ilmweekly.com/tuesday/",
    "verified": true,
    "notes": "",
@@ -730,6 +780,8 @@
     "wine"
    ],
    "website": "",
+   "happyHourUrl": "https://southbeachgrillwb.com/",
+   "happyHourDedicated": false,
    "source": "https://ilmweekly.com/tuesday/",
    "verified": true,
    "notes": "",
@@ -757,6 +809,8 @@
     "cocktails"
    ],
    "website": "",
+   "happyHourUrl": "https://www.tower7.com/locations/wrightsville/",
+   "happyHourDedicated": true,
    "source": "https://ilmweekly.com/tuesday/",
    "verified": true,
    "notes": "",
@@ -784,6 +838,8 @@
     "food"
    ],
    "website": "",
+   "happyHourUrl": "https://havanasrestaurant.com/carolina-beach-central-business-district-havana-s-restaurant-happy-hours-specials",
+   "happyHourDedicated": true,
    "source": "https://ilmweekly.com/tuesday/",
    "verified": true,
    "notes": "",
@@ -811,6 +867,8 @@
     "food"
    ],
    "website": "",
+   "happyHourUrl": "https://cbgbrestaurant.com/menu",
+   "happyHourDedicated": false,
    "source": "https://ilmweekly.com/tuesday/",
    "verified": true,
    "notes": "",
@@ -842,6 +900,8 @@
     "food"
    ],
    "website": "",
+   "happyHourUrl": "",
+   "happyHourDedicated": false,
    "source": "https://ilmweekly.com/tuesday/",
    "verified": true,
    "notes": "Listed in ILMWeekly's last area section; confirm area",
@@ -867,6 +927,8 @@
     "beer"
    ],
    "website": "https://budandjoes.com/",
+   "happyHourUrl": "http://budandjoes.com/home.html",
+   "happyHourDedicated": false,
    "source": "https://budandjoes.com/home.html",
    "verified": false,
    "notes": "",
@@ -894,6 +956,8 @@
     "cocktails"
    ],
    "website": "",
+   "happyHourUrl": "",
+   "happyHourDedicated": false,
    "source": "https://ilmweekly.com/tuesday/",
    "verified": true,
    "notes": "Map position is approximate (near Turlington Ave / Village Rd). Geocoder did not match this address.",
@@ -924,6 +988,8 @@
     "food"
    ],
    "website": "https://www.southfronttavern.com/",
+   "happyHourUrl": "https://www.southfronttavern.com/",
+   "happyHourDedicated": true,
    "source": "https://www.southfronttavern.com/",
    "verified": false,
    "notes": "No street address in the source file, so this spot is not on the map.",
@@ -948,6 +1014,8 @@
     "food"
    ],
    "website": "",
+   "happyHourUrl": "https://www.seabirdnc.com/menu",
+   "happyHourDedicated": false,
    "source": "https://ilmweekly.com/biz/seabird/",
    "verified": true,
    "notes": "",
@@ -977,6 +1045,8 @@
     "cocktails"
    ],
    "website": "",
+   "happyHourUrl": "https://www.elijahs.com/menu",
+   "happyHourDedicated": true,
    "source": "https://ilmweekly.com/biz/elijahs/",
    "verified": true,
    "notes": "Mon, Tue, and Sun drink deals are listed but are not part of the Wed 4-6pm window.",
@@ -1004,6 +1074,8 @@
     "food"
    ],
    "website": "",
+   "happyHourUrl": "https://www.rxwilmington.com/",
+   "happyHourDedicated": true,
    "source": "https://ilmweekly.com/biz/rx-chicken-and-oysters/",
    "verified": true,
    "notes": "",
@@ -1033,6 +1105,8 @@
     "wine"
    ],
    "website": "",
+   "happyHourUrl": "https://www.thegermancafe.com/menus",
+   "happyHourDedicated": false,
    "source": "https://ilmweekly.com/biz/the-german-cafe/",
    "verified": true,
    "notes": "Tue and Thu deals are listed but are not part of the Wed 3-5pm window.",
@@ -1061,6 +1135,8 @@
     "food"
    ],
    "website": "",
+   "happyHourUrl": "https://www.wearetrueblue.com/farfalla",
+   "happyHourDedicated": false,
    "source": "https://ilmweekly.com/biz/farfalla/",
    "verified": true,
    "notes": "",
@@ -1092,6 +1168,8 @@
     "cocktails"
    ],
    "website": "",
+   "happyHourUrl": "https://commodoreilm.com/",
+   "happyHourDedicated": false,
    "source": "https://ilmweekly.com/biz/commodore/",
    "verified": true,
    "notes": "Mon, Tue, Thu, and Sat deals are listed but are not part of the Fri 4-6pm window.",
@@ -1118,6 +1196,8 @@
     "food"
    ],
    "website": "",
+   "happyHourUrl": "https://lazypiratesportsgrill.com/menu/",
+   "happyHourDedicated": false,
    "source": "https://ilmweekly.com/wednesday/",
    "verified": true,
    "notes": "Street address was not in the research file; placed from the OpenStreetMap Nominatim match for The Lazy Pirate.",
@@ -1146,6 +1226,8 @@
     "cocktails"
    ],
    "website": "",
+   "happyHourUrl": "https://www.the-sounder.com/",
+   "happyHourDedicated": false,
    "source": "https://ilmweekly.com/biz/the-sounder/",
    "verified": true,
    "notes": "Times were not published.",
@@ -1170,14 +1252,16 @@
    "deals": [
     "Mon everything $5 (fish tacos, margaritas, queso, guac)",
     "Tue fajitas, $3 Dos XX",
-   "Wed half-off quesadilla, $3 Miller Lite"
-  ],
+    "Wed half-off quesadilla, $3 Miller Lite"
+   ],
    "dealTypes": [
     "food",
     "cocktails",
     "beer"
    ],
    "website": "https://k38bajagrill.com/locations/oleander/",
+   "happyHourUrl": "https://k38bajagrill.com/locations/oleander/",
+   "happyHourDedicated": true,
    "source": "https://k38bajagrill.com/locations/oleander/",
    "verified": false,
    "notes": "Food specials from 5 PM; drink specials all day. Dine-in only. Sunday is listed, but no Sunday special was published.",
@@ -1212,6 +1296,8 @@
     "wine"
    ],
    "website": "",
+   "happyHourUrl": "https://www.lelandbrewing.com/menu",
+   "happyHourDedicated": false,
    "source": "https://ilmweekly.com/biz/leland-brewing/",
    "verified": true,
    "notes": "Times were not published.",
@@ -1239,6 +1325,8 @@
     "food"
    ],
    "website": "",
+   "happyHourUrl": "https://localstavern.com/leland-locals-tavern-happy-hours-specials",
+   "happyHourDedicated": true,
    "source": "https://ilmweekly.com/wednesday/",
    "verified": true,
    "notes": "Pints all day; hot dog specials 11 AM-4 PM.",
@@ -1272,6 +1360,8 @@
     "cocktails"
    ],
    "website": "https://k38bajagrill.com/locations/carolina-beach/",
+   "happyHourUrl": "https://k38bajagrill.com/locations/carolina-beach/",
+   "happyHourDedicated": true,
    "source": "https://k38bajagrill.com/locations/carolina-beach/",
    "verified": false,
    "notes": "Food from 5 PM; drinks all day. Address has no street number. Nominatim only matched the boulevard, so this spot is not on the map.",
@@ -1306,6 +1396,8 @@
     "cocktails"
    ],
    "website": "",
+   "happyHourUrl": "https://sunnydazecb.com/",
+   "happyHourDedicated": false,
    "source": "https://ilmweekly.com/biz/sunnydaze/",
    "verified": true,
    "notes": "Listed as daily specials; only these days were published. Times were not published.",
@@ -1333,6 +1425,8 @@
     "food"
    ],
    "website": "",
+   "happyHourUrl": "https://hopliterestaurant.com/",
+   "happyHourDedicated": false,
    "source": "https://ilmweekly.com/wednesday/",
    "verified": true,
    "notes": "Times were not published. Street address was not in the research file; placed from the OpenStreetMap Nominatim match.",
@@ -1364,6 +1458,8 @@
     "cocktails"
    ],
    "website": "",
+   "happyHourUrl": "https://putterpub.com/drinks",
+   "happyHourDedicated": false,
    "source": "https://ilmweekly.com/wednesday/",
    "verified": true,
    "notes": "Times were not published.",
@@ -1389,6 +1485,8 @@
     "beer"
    ],
    "website": "",
+   "happyHourUrl": "https://goodhopsbrewing.com/",
+   "happyHourDedicated": false,
    "source": "https://ilmweekly.com/wednesday/",
    "verified": true,
    "notes": "Times were not published. Street address was not in the research file; placed from the OpenStreetMap Nominatim match for Good Hops Brewery.",
@@ -1414,6 +1512,8 @@
     "wine"
    ],
    "website": "",
+   "happyHourUrl": "https://stokedrestaurant.com/carolina-beach-stoked-restaurant-food-menu",
+   "happyHourDedicated": false,
    "source": "https://ilmweekly.com/wednesday/",
    "verified": true,
    "notes": "Times were not published. No street address in the source file, so this spot is not on the map.",
@@ -1442,6 +1542,8 @@
     "cocktails"
    ],
    "website": "",
+   "happyHourUrl": "",
+   "happyHourDedicated": false,
    "source": "https://ilmweekly.com/wednesday/",
    "verified": true,
    "notes": "Times were not published. Street address was not in the research file; placed from the OpenStreetMap Nominatim match.",
